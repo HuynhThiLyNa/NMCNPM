@@ -5,7 +5,7 @@ NHẬP MÔN CÔNG NGHỆ PHẦN MỀM
 
 👨‍🎓 Thông tin sinh viên
 
-Họ tên: Huynh Thi Ly Na
+Họ tên: Huỳnh Thị Ly Na
 MSSV: K23DTCN296
 Lớp: K23DTCN06-K
 Github Profile: github.com/HuynhThiLyNa
